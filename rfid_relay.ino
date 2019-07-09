@@ -1,14 +1,7 @@
 /*
-   ----------------------------------------------------------------------------
-   This sketch uses the MFRC522 library ; see https://github.com/miguelbalboa/rfid
-   for further details and other examples.
-
-   NOTE: The library file MFRC522.h has a lot of useful info. Please read it.
-
-   This sketch show a simple locking mechanism using the RC522 RFID module.
-   ----------------------------------------------------------------------------
-   Typical pin layout used:
-   -----------------------------------------------------------------------------------------
+ Engr.Muhammad Taha
+ 0330-8530186
+ REX Electric Service
                MFRC522      Arduino       Arduino   Arduino    Arduino          Arduino
                Reader/PCD   Uno           Mega      Nano v3    Leonardo/Micro   Pro Micro
    Signal      Pin          Pin           Pin       Pin        Pin              Pin
